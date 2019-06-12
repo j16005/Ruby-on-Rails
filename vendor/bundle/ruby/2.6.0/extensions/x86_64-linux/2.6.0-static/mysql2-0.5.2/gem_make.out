@@ -1,5 +1,5 @@
 current directory: /var/www/app/vendor/bundle/ruby/2.6.0/gems/mysql2-0.5.2/ext/mysql2
-/home/admin/.rbenv/versions/2.6.2/bin/ruby -I /home/admin/.rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20190416-9172-18aer8w.rb extconf.rb
+/home/admin/.rbenv/versions/2.6.2/bin/ruby -I /home/admin/.rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20190612-22344-2ab23q.rb extconf.rb
 checking for rb_absint_size()... yes
 checking for rb_absint_singlebit_p()... yes
 checking for rb_wait_for_single_fd()... yes
@@ -38,4 +38,4 @@ linking shared-object mysql2/mysql2.so
 
 current directory: /var/www/app/vendor/bundle/ruby/2.6.0/gems/mysql2-0.5.2/ext/mysql2
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 mysql2.so ./.gem.20190416-9172-otj015/mysql2
+/usr/bin/install -c -m 0755 mysql2.so ./.gem.20190612-22344-158ey3w/mysql2

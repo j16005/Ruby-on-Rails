@@ -1,5 +1,5 @@
 current directory: /var/www/app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.3/ext/bootsnap
-/home/admin/.rbenv/versions/2.6.2/bin/ruby -I /home/admin/.rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20190416-9172-1y9884l.rb extconf.rb
+/home/admin/.rbenv/versions/2.6.2/bin/ruby -I /home/admin/.rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20190612-22344-1vhoqc5.rb extconf.rb
 creating Makefile
 
 current directory: /var/www/app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.3/ext/bootsnap
@@ -36,4 +36,4 @@ linking shared-object bootsnap/bootsnap.so
 
 current directory: /var/www/app/vendor/bundle/ruby/2.6.0/gems/bootsnap-1.4.3/ext/bootsnap
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20190416-9172-lcgaho/bootsnap
+/usr/bin/install -c -m 0755 bootsnap.so ./.gem.20190612-22344-4td3cl/bootsnap

@@ -1,5 +1,5 @@
 current directory: /var/www/app/vendor/bundle/ruby/2.6.0/gems/mini_racer-0.2.5/ext/mini_racer_extension
-/home/admin/.rbenv/versions/2.6.2/bin/ruby -I /home/admin/.rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20190514-3865-japww1.rb extconf.rb
+/home/admin/.rbenv/versions/2.6.2/bin/ruby -I /home/admin/.rbenv/versions/2.6.2/lib/ruby/2.6.0 -r ./siteconf20190612-22344-4x56kj.rb extconf.rb
 checking for -lpthread... yes
 creating Makefile
 
@@ -32,4 +32,4 @@ linking shared-object mini_racer_extension.so
 
 current directory: /var/www/app/vendor/bundle/ruby/2.6.0/gems/mini_racer-0.2.5/ext/mini_racer_extension
 make "DESTDIR=" install
-/usr/bin/install -c -m 0755 mini_racer_extension.so ./.gem.20190514-3865-1nonv08
+/usr/bin/install -c -m 0755 mini_racer_extension.so ./.gem.20190612-22344-fnaolc
